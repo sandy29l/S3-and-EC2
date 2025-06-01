@@ -1,7 +1,7 @@
 # Ex No 2: CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 
-## NAME: MOHAMMED FAIZAL J
-## REG NO: 212222100027
+## NAME: SANTHOSH L
+## REG NO: 212222100046
 
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
